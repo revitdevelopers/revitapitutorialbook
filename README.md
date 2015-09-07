@@ -8,8 +8,8 @@
 * `P6` 图2-2中的Revit.ini，应该是.addin
 * `P11` 代码片段2-8中，应该是
 ```C#
-  Autodesk.Revit.DB.ExternalDBApplication.Result OnShutdown(UIControlledApplication application);
-  Autodesk.Revit.DB.ExternalDBApplication.Result OnStartup(UIControlledApplication application);
+  Autodesk.Revit.DB.ExternalDBApplicationResult OnShutdown(UIControlledApplication application);
+  Autodesk.Revit.DB.ExternalDBApplicationResult OnStartup(UIControlledApplication application);
 ```
 * `P19` 表2-6中，应该是
 ```C#
