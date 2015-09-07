@@ -4,5 +4,11 @@
 
 ## 第一版的一些修正
 第一版于2015年9月中旬出版，下面是一些需要修正的地方：
-* 图3-13，3-14中的Matg.PI，应该是Math.PI
-* 表6-3描述里面的ViewSectiono, 应该是ViewSection
+* P5 Revit® API.dll和Revit® APIUI.dll，应该是RevitAPI.dll和RevitAPIUI.dll
+* P6 图2-2中的Revit.ini，应该是.addin
+* P11 代码片段2-8中，应该是Autodesk.Revit.DB.ExternalDBApplicationResult OnShutdown(UIControlledApplication application);和Autodesk.Revit.DB.ExternalDBApplicationResult OnStartup(UIControlledApplication application);
+* P19 表2-6中，应该是Document NewFamilyDocument, Document NewProjectDocument和Document NewProjectTemplateDocument
+* P28 Visual Studio 2010，应该是Visual Studio 2012
+* P30 C:\Program Files\Revit Architecture 2014\Program\Revit.exe，应该是C:\Program Files\Revit 2015\Revit.exe
+* P55 图3-13，3-14中的Matg.PI，应该是Math.PI
+* P136 表6-3描述里面的ViewSectiono, 应该是ViewSection
