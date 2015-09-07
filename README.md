@@ -6,12 +6,12 @@
 第一版于2015年9月中旬出版，下面是一些需要修正的地方：
 * `P5` Revit® API.dll和Revit® APIUI.dll，应该是RevitAPI.dll和RevitAPIUI.dll
 * `P6` 图2-2中的Revit.ini，应该是.addin
-* `P11` 代码片段2-8中，应该是<br>
+* `P11` 代码片段2-8中，应该是
 ```C#
-  Autodesk.Revit.DB.ExternalDBApplicationResult OnShutdown(UIControlledApplication application);
-  Autodesk.Revit.DB.ExternalDBApplicationResult OnStartup(UIControlledApplication application);
+  Autodesk.Revit.DB.ExternalDBApplication.Result OnShutdown(UIControlledApplication application);
+  Autodesk.Revit.DB.ExternalDBApplication.Result OnStartup(UIControlledApplication application);
 ```
-* `P19` 表2-6中，应该是<br>
+* `P19` 表2-6中，应该是
 ```C#
   Document NewFamilyDocument
   Document NewProjectDocument
