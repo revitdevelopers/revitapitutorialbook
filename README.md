@@ -3,6 +3,7 @@
 * 代码示例请见CodeSnippets.cs文件
 * 本书在写作的过程中难免有一些疏漏之处，请大家谅解。如果有发现任何新的问题，请联系我们revitdevelopers@sina.com或者直接在github上提交一个问题，方法是：点击Issues，再点击Create an issue，然后发布该问题。
 * [点击这里直通购买地址](https://detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-7642016013.86.kqSuts&id=521852354085&rn=9ca0adf9fcbae2111fa480ccec7d15ef&abbucket=19)
+* RevitSDK的下载地址：[http://www.autodesk.com/developrevit](http://www.autodesk.com/developrevit)
 
 ## 第一版的一些修正
 第一版于2015年9月中旬出版，下面是一些需要修正的地方：
