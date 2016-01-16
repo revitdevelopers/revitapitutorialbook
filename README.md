@@ -24,4 +24,5 @@
 * `P30` C:\Program Files\Revit Architecture 2014\Program\Revit.exe，应该是C:\Program Files\Revit 2015\Revit.exe
 * `P32` 代码片段2-26：由于需要使用BitmapImage等类，所以要引用这几个dll：WindowsBase, PresentationCore, System.Xaml
 * `P55` 图3-13，3-14中的Matg.PI，应该是Math.PI
+* `P89` "代码片段4-11：创建三角形墙"，这里的"墙"应该改为"板"
 * `P136` 表6-3描述里面的ViewSectiono, 应该是ViewSection
